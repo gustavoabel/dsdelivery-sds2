@@ -15,7 +15,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 ### Back-end e Front-end
 ```bash
 # Clone este repositório
-$ git clone https://github.com/jonatasosilva/dsdeliver-sds2
+$ git clone https://github.com/gustavoabell/dsdelivery-sds2
 
 # Acesse a pasta do projeto no terminal
 $ cd dsdeliver-sds2
