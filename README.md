@@ -6,7 +6,7 @@ Sistema de registro e entrega de pedidos. As interfaces de usuário foram
 construídas com React e React Native. Já o back-end foi desenvolvido com
 Spring Boot.
 
-[https://dsdelivery.jonatasosilva.dev/](https://dsdelivery.jonatasosilva.dev/)
+[https://dsdelivery.jonatasosilva.dev/](https://gustavoabell-dsdeliver.vercel.app/)
 
 ## Como executar o projeto
 ### Pré-requisitos
