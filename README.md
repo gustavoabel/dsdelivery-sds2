@@ -74,3 +74,5 @@ $ yarn start
 - [React Native MaskedView](https://github.com/react-native-masked-view/masked-view)
 - [React Native Screens](https://github.com/software-mansion/react-native-screens)
 - [React Navigation](https://reactnavigation.org/)
+
+Feito por Gustavo Abel.
